@@ -6,11 +6,11 @@ author=12h1h417
 description=Modul yang sangat sederhana hanya untuk membuat GPS palsu berfungsi sebagai aplikasi tanpa sistem, Ini hanya akan menyuntikkan folder dengan apk ke jalur: /system/priv-app. Jika itu menunjukkan RRG-Systemless.
 support=https://t.me/joinchat/HpcJ_07yRKo-WTM78Ap7Xw
 minMagisk=1530
-id=com.rrg.official.gps.systemless
-name=RRG-Systemless
-version=v4.1 build 378
-versionCode=378
-author=12h1h417
-description=Modul yang sangat sederhana hanya untuk membuat GPS palsu berfungsi sebagai aplikasi tanpa sistem, Ini hanya akan menyuntikkan folder dengan apk ke jalur: /system/priv-app. Jika itu menunjukkan RRG-Systemless.
-support=https://t.me/joinchat/HpcJ_07yRKo-WTM78Ap7Xw
-minMagisk=1530
+
+
+
+
+
+
+
+
