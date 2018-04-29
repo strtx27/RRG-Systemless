@@ -18,8 +18,14 @@ Modul yang sangat sederhana hanya untuk membuat GPS palsu berfungsi sebagai apli
 - Android 5.0+ (Magisk requirement)
 - Magisk v15.3+
 
+## Instruction:
+* Downloads this Module
+* Reboot into TWRP
+* Install RRG-Systemless
+* Reboot
+
 # Module by:
-[1241h417](https://t.me/l241h417 "Official Project")
+* Telegram - [1241h417](https://t.me/l241h417 "Official Project")
 
 # Credits:
 
