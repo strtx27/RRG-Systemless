@@ -14,6 +14,11 @@ Modul yang sangat sederhana hanya untuk membuat GPS palsu berfungsi sebagai apli
 
 * Note: You won't get any xposed-side features, since magisk is NOT xposed!
 
+## Changelog:
+- Rilis Pertama
+- Support Android Nougat 7.x.x & Android Oreo 8.x.x
+
+
 ## Requirements: 
 - Android 5.0+ (Magisk requirement)
 - Magisk v15.3+
