@@ -7,7 +7,7 @@
 
 ## Module Explanation:
 English:
-A very simple module just to make Fake GPS work as app systemlessly, It'll simply inject a folder with the apk into the path: /system/priv-app. If it shows GPS-Systemless.
+A very simple module just to make Fake GPS work as app systemlessly, It'll simply inject a folder with the apk into the path: /system/priv-app. If it shows RRG-Systemless.
 
 Indonesia:
 Modul yang sangat sederhana hanya untuk membuat GPS palsu berfungsi sebagai aplikasi tanpa sistem, Ini hanya akan menyuntikkan folder dengan apk ke jalur: /system/priv-app. Jika itu menunjukkan RRG-Systemless.
@@ -29,7 +29,7 @@ Modul yang sangat sederhana hanya untuk membuat GPS palsu berfungsi sebagai apli
 
 # Credits:
 
-* Grup Public - [☣️ RRG TEAM ☣️](https://t.me/joinchat/HpcJ_07yRKo-WTM78Ap7Xw "☣️ RRG TEAM ☣️ Official Grup").
+* Join On Telegram - [RRG〽️DeV910](https://t.me/joinchat/HpcJ_07yRKoxi6Ie7s0CmQ "RRG〽️DeV910 Official Telegram Grup").
 
 * Magisk Developer - [Topjohnwu](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445 "Magisk official XDA thread").
 
