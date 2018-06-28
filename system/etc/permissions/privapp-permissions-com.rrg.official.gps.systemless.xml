@@ -1,9 +1,0 @@
-<permissions>
-  <privapp-permissions package="com.rrg.official.gps.systemless">
-    <permission name="android.permission.ACCESS_MOCK_LOCATION"/>
-    <permission name="android.permission.WRITE_SETTINGS" />
-    <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
-    <permission name="android.permission.INTERNET"/>
-    <permission name="android.permission.RECEIVE_BOOT_COMPLETED"/>
-  </privapp-permissions>
-</permissions>
