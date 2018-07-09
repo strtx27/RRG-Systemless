@@ -1,8 +1,8 @@
 id=RRG-Systemless
-name=RRG-Systemless
+name=FakeGPS RRG Systemless
 version=v2.1.4
 versionCode=810
 author=12h1h417, RRG_DeV910, Eight™
-description=Modul yang sangat sederhana hanya untuk membuat GPS palsu berfungsi sebagai aplikasi tanpa sistem, Ini hanya akan menyuntikkan folder dengan apk ke jalur: /system/priv-app. Jika itu menunjukkan RRG-Systemless.
+description=Modul sederhana FakeGPS untuk Ojek Online (OJOL) Visit bit.ly/RRG_DEV910
 support=bit.ly/RRG_DEV910
 minMagisk=1530
